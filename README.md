@@ -1,7 +1,7 @@
 # Design Thinking Report/Video
 Hello My Name is Ow Yee Hao,this is my report and video link of my design thinking project for the course SECP1513-05,Technology and Information System.
 
-<br> Report link:[REPORT](https://docs.google.com/document/d/12onB8YO4lyE3MYZ7CiqS_WsWIDtYZ0w2vY8Svlnd0mk/edit?usp=sharing)(https://docs.google.com/document/d/12onB8YO4lyE3MYZ7CiqS_WsWIDtYZ0w2vY8Svlnd0mk/view) <br>
+<br> Report link:[https://docs.google.com/document/d/12onB8YO4lyE3MYZ7CiqS_WsWIDtYZ0w2vY8Svlnd0mk/edit?usp=sharing](https://docs.google.com/document/d/12onB8YO4lyE3MYZ7CiqS_WsWIDtYZ0w2vY8Svlnd0mk/view) <br>
 <br>Video link:https://youtu.be/dX_0P9aj9WQ?si=gD-WylE5wOFj2vKW<br>
 
 # Reflections
